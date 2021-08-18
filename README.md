@@ -4,7 +4,7 @@
 
 ![Image of banner](https://github.com/Bebolor/Bebolor/blob/main/Bebanner.png?raw=true)
 
-![Image of me](https://github.com/WJimmyCook/wjimmycook/blob/master/me.gif?raw=true)
+
 
 
 
