@@ -1,5 +1,5 @@
  
-![Image of banner](https://github.com/Bebolor/Bebolor/blob/main/Bebanner.png?raw=true)
+![Image of banner](https://github.com/Bebolor/Bebolor/blob/main/mybanner.jpg?raw=true)
  
  <h1 align="center"> Hello there 👋 </h1>
 
